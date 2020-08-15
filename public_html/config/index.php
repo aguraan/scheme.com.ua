@@ -2,7 +2,8 @@
 
 $SCHEME_HOST = $_SERVER['REQUEST_SCHEME']."://".$_SERVER['HTTP_HOST'];
 
-switch ($_SERVER["REQUEST_URI"]) {
+switch (parse_url($_SERVER["REQUEST_URI"])["path"]) {
+// switch ($_SERVER["REQUEST_URI"]) {
 	case "/":
 		$CURRENT_PAGE = "Главная"; 
 		$PAGE_TITLE = "SCHEME | Высокоточные 3D обмеры помещений";
@@ -14,6 +15,12 @@ switch ($_SERVER["REQUEST_URI"]) {
 		$PAGE_TITLE = "Политика Конфиденциальности";
 		$PAGE_BODY = "pages/privacy_policy.php";
 		$PAGE_HEAD = "page_head/privacy_policy_head.php";
+		break;
+	case "/mini-bot-auth-callback":
+		$CURRENT_PAGE = "Код авторизации";
+		$PAGE_TITLE = "Код авторизации";
+		$PAGE_BODY = "pages/mini_bot_auth_callback.php";
+		$PAGE_HEAD = "pages_head/mini_bot_auth_callback_head.php";
 		break;
 	default:
 		http_response_code(404);
