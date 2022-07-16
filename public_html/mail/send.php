@@ -3,8 +3,8 @@
 if ($_POST['email'] && $_POST['name']) {
     $from    = $_POST['email'];
     $to      = 'info@scheme.com.ua';
-    $subject = 'Отправленное письмо с сайта scheme.com.ua человеком по имени '. $_POST['name'];
-    $message = 'От: ' . $_POST['email'] . " \r\n" . 'Сообщение: ' . $_POST['message'];
+    $subject = 'Надісланий лист із сайту scheme.com.ua людиною на ім\'я '. $_POST['name'];
+    $message = 'Від: ' . $_POST['email'] . " \r\n" . 'Повідомлення: ' . $_POST['message'];
     $headers = 'From: ' . $from . "\r\n" .
         'Reply-To: ' . $from . "\r\n" .
         'X-Mailer: PHP/' . phpversion() ."\r\n" .

@@ -28,9 +28,9 @@
                 <div class="col-sm-12 col-lg-6 mb-5 text-center text-sm-left" data-aos="fade-down" data-aos-delay="200">
                     <h2 class="font-weight-light mb-4" data-aos="fade-down" data-aos-delay="250">Про нас |</h2>
                     <p>Компанія SCHEME – надійний помічник на етапі здійснення обмірів приміщень, фасадів будівель та інших об'єктів будь-якої складності.</p>
-                    <p>Ми використовуємо високоточну вимірювальну систему Leica 3D Disto та перевірений робочий алгоритм для побудови 3D – моделі об'єкта з урахуванням усіх відхилень, нерівностей та перепадів висот. Результати вимірювань надамо у універсальних форматах *.dwg, *.dxf, *.b3d.</p>
-                    <p>Працюючи з нами, Ви не тільки заощадите час та вбережете нерви, але й збережете себе від зайвих витрат на покриття можливих збитків, причиною яких став некоректно виконаний обмір.</p>
-                    <a href="#send-mail" class="btn-scheme btn-scheme-primary mt-3" title="Оставить заявку" data-aos="fade-down" data-aos-delay="300">Оставить заявку</a>
+                    <p>Ми використовуємо високоточну вимірювальну систему Leica 3D Disto та перевірений робочий алгоритм для побудови 3D – моделі об'єкта з урахуванням усіх відхилень, нерівностей та перепадів висот. Результати вимірювань видаємо в універсальних форматах *.dwg, *.dxf, *.b3d.</p>
+                    <p>Працюючи з нам ви заощаджуєте час і оберігаєте себе від зайвих витрат на покриття можливих збитків, причиною яких став некоректно виконаний обмір.</p>
+                    <a href="#send-mail" class="btn-scheme btn-scheme-primary mt-3" title="Залишити заявку" data-aos="fade-down" data-aos-delay="300">Залишити заявку</a>
                 </div>
                 <div class="col-sm-12 col-lg-6" data-aos="fade-down" data-aos-delay="250">
                     <div id="v-carousel" class="carousel" data-ride="carousel">
@@ -629,7 +629,7 @@
 
     <section class="py-5">
         <div class="container">
-            <h2 class="font-weight-light mb-4 text-center text-sm-left" data-aos="fade-down" data-aos-delay="100">Мы гарантируем |</h2>
+            <h2 class="font-weight-light mb-4 text-center text-sm-left" data-aos="fade-down" data-aos-delay="100">Ми гарантуємо |</h2>
             <div class="row">
                 <div class="col-sm-12 col-md-4 mb-4 mb-md-0">
                     <div class="card" data-aos="fade-down" data-aos-delay="150">
@@ -736,8 +736,8 @@
                 <div class="col-sm-12 col-lg-4 text-center text-lg-right mb-5 mb-lg-0">
                     <form class="mail-send-form text-center mt-5" action="mail/send.php" method="POST">
                         <h3 class="font-weight-light pt-4">Написати нам |</h3>
-                        <div class="underline-animate"><input id="send-mail" name="name" class="mail-send w-100" type="text" placeholder="Имя" required></div>
-                        <div class="underline-animate"><input class="mail-send w-100" name="email" type="text" placeholder="Ваш эл. адрес" required></div>
+                        <div class="underline-animate"><input id="send-mail" name="name" class="mail-send w-100" type="text" placeholder="Ім'я" required></div>
+                        <div class="underline-animate"><input class="mail-send w-100" name="email" type="text" placeholder="Ваша ел. адреса" required></div>
                         <div class="underline-animate">
                             <textarea class="mail-send w-100" name="message" cols="30" rows="5" placeholder="..."></textarea>
                         </div>
