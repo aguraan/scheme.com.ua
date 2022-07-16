@@ -4,7 +4,7 @@
             <div class="card card-block">
                 <textarea id="code"><?php echo $_GET['code'] ?></textarea>
             </div>
-            <button class="btn btn-secondary" onclick="copyText()">Скопировать</button>
+            <button class="btn btn-secondary" onclick="copyText()">Копіювати</button>
         </div>
     </div>
 </div>
@@ -22,6 +22,6 @@
         document.execCommand("copy");
     
         /* Alert the copied text */
-        alert("Скопировано в буфер: " + copyText.value);
+        alert("Скопійовано до буфера: " + copyText.value);
     }
 </script>

@@ -1,6 +1,6 @@
 <?php include("config/index.php");?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="uk">
 <head>
     <?php include("includes/head.php");?>
 </head>

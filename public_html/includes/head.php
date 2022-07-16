@@ -1,10 +1,10 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-<meta name="description" content="Высокоточные 3D обмеры жилых и коммерческих помещений с использованием проекционно-измерительной системы Leica 3D Disto." />
+<meta name="description" content="Високоточні 3D обміри житлових та комерційних приміщень із використанням проекційно-вимірювальної системи Leica 3D Disto." />
 <meta name="robots" content="index,follow" />
 <meta name="google" content="nositelinkssearchbox" />
-<meta name="keywords" content="высокоточные 3d обмеры, замеры, ским, scheme, лазерное сканирование помещений, одесса, киев, сканер, leica, disto, лейка, дисто" />
+<meta name="keywords" content="високоточні 3d обміри, виміри, скім, scheme, лазерне сканування приміщень, одеса, київ, сканер, leica, disto, лійка, дісто" />
 <title><?php echo $PAGE_TITLE; ?></title>
 <link href="https://fonts.googleapis.com/css?family=Montserrat+Subrayada|Roboto+Condensed:300,400,700&display=swap&subset=cyrillic" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->

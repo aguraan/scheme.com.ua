@@ -1,8 +1,9 @@
 <?php
 
 $SCHEME_HOST = $_SERVER['REQUEST_SCHEME']."://".$_SERVER['HTTP_HOST'];
+$current_url = parse_url($_SERVER["REQUEST_URI"])["path"];
 
-switch (parse_url($_SERVER["REQUEST_URI"])["path"]) {
+switch ($current_url) {
 // switch ($_SERVER["REQUEST_URI"]) {
 	case "/":
 		$CURRENT_PAGE = "Главная"; 

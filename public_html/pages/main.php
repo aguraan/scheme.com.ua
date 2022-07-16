@@ -15,7 +15,7 @@
                 <div class="col-12 text-center text-overlay" data-aos="fade-down" data-aos-delay="150">
                     <h1 class="font-weight-light my-0 w-100 text-white">
                         <span class="logo-text">SCHEME</span>
-                        <span class="color-main">|</span> <span id="header-text-anim">Высокоточные 3D-обмеры помещений</span> <span class="color-main">|</span>
+                        <span class="color-main">|</span> <span id="header-text-anim">Високоточні 3D-обміри приміщень</span> <span class="color-main">|</span>
                     </h1>
                 </div>
             </div>
@@ -26,10 +26,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-lg-6 mb-5 text-center text-sm-left" data-aos="fade-down" data-aos-delay="200">
-                    <h2 class="font-weight-light mb-4" data-aos="fade-down" data-aos-delay="250">О нас |</h2>
-                    <p>Компания SCHEME - надежный помощник на этапе осуществления обмеров помещений, фасадов зданий и других объектов любой сложности.</p>
-                    <p>Мы используем высокоточную измерительную систему Leica 3D Disto и проверенный рабочий алгоритм для построения  3D - модели объекта с учетом всех отклонений, неровностей и перепадов высот. Результаты измерений предоставим  в универсальных форматах *.dwg, *.dxf, *.b3d.</p>
-                    <p>Работая с нами, Вы не только  сэкономите время и убережете нервы, но и обезопасите себя от лишних затрат на покрытие возможных убытков, причиной которых стал некорректно выполненный обмер.</p>
+                    <h2 class="font-weight-light mb-4" data-aos="fade-down" data-aos-delay="250">Про нас |</h2>
+                    <p>Компанія SCHEME – надійний помічник на етапі здійснення обмірів приміщень, фасадів будівель та інших об'єктів будь-якої складності.</p>
+                    <p>Ми використовуємо високоточну вимірювальну систему Leica 3D Disto та перевірений робочий алгоритм для побудови 3D – моделі об'єкта з урахуванням усіх відхилень, нерівностей та перепадів висот. Результати вимірювань надамо у універсальних форматах *.dwg, *.dxf, *.b3d.</p>
+                    <p>Працюючи з нами, Ви не тільки заощадите час та вбережете нерви, але й збережете себе від зайвих витрат на покриття можливих збитків, причиною яких став некоректно виконаний обмір.</p>
                     <a href="#send-mail" class="btn-scheme btn-scheme-primary mt-3" title="Оставить заявку" data-aos="fade-down" data-aos-delay="300">Оставить заявку</a>
                 </div>
                 <div class="col-sm-12 col-lg-6" data-aos="fade-down" data-aos-delay="250">
@@ -635,8 +635,8 @@
                     <div class="card" data-aos="fade-down" data-aos-delay="150">
                         <div class="card-body">
                             <svg class="mb-3" style="width:3rem;height:3rem;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="#333333" d="M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3-8c0 1.66-1.34 3-3 3s-3-1.34-3-3 1.34-3 3-3 3 1.34 3 3z"/><path d="M0 0h24v24H0z" fill="none"/></svg>
-                            <h3 class="card-title font-weight-light">Точность</h3>
-                            <p class="card-text">Используется высокоточное измерительное оборудование с погрешностью не более 1.2mm / 50m</p>
+                            <h3 class="card-title font-weight-light">Точність</h3>
+                            <p class="card-text">Використовується високоточне вимірювальне обладнання з похибкою не більше 1.2mm / 50m</p>
                         </div>
                     </div>
                 </div>
@@ -646,8 +646,8 @@
                                 <svg id="speed" viewBox="0 0 24 24" class="mb-3" style="width:3rem;height:3rem;">
                                     <path fill="#333333" d="M12,16A3,3 0 0,1 9,13C9,11.88 9.61,10.9 10.5,10.39L20.21,4.77L14.68,14.35C14.18,15.33 13.17,16 12,16M12,3C13.81,3 15.5,3.5 16.97,4.32L14.87,5.53C14,5.19 13,5 12,5A8,8 0 0,0 4,13C4,15.21 4.89,17.21 6.34,18.65H6.35C6.74,19.04 6.74,19.67 6.35,20.06C5.96,20.45 5.32,20.45 4.93,20.07V20.07C3.12,18.26 2,15.76 2,13A10,10 0 0,1 12,3M22,13C22,15.76 20.88,18.26 19.07,20.07V20.07C18.68,20.45 18.05,20.45 17.66,20.06C17.27,19.67 17.27,19.04 17.66,18.65V18.65C19.11,17.2 20,15.21 20,13C20,12 19.81,11 19.46,10.1L20.67,8C21.5,9.5 22,11.18 22,13Z" />
                                 </svg>
-                            <h3 class="card-title font-weight-light">Оперативность</h3>
-                            <p class="card-text">Результат будет готов на следующий день после проведения обмера</p>
+                            <h3 class="card-title font-weight-light">Оперативність</h3>
+                            <p class="card-text">Результат буде готовий наступного дня після проведення обміру</p>
                         </div>
                     </div>
                 </div>
@@ -655,8 +655,8 @@
                     <div class="card" data-aos="fade-down" data-aos-delay="250">
                         <div class="card-body">
                             <svg class="mb-3" style="width:3rem;height:3rem;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path fill="#333333" d="M20 18c1.1 0 1.99-.9 1.99-2L22 5c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2H0c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2h-4zM4 5h16v11H4V5zm8 14c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z"/></svg>
-                            <h3 class="card-title font-weight-light">Удобство</h3>
-                            <p class="card-text">Чертеж открывается в любом 3D-редакторе. Данные предоставляем в *.dxf, *.dwg, *.b3d.</p>
+                            <h3 class="card-title font-weight-light">Зручність</h3>
+                            <p class="card-text">Креслення відкривається у будь-якому 3D-редакторі. Дані надаємо у *.dxf, *.dwg, *.b3d.</p>
                         </div>
                     </div>
                 </div>
@@ -666,7 +666,7 @@
 
     <section class="py-5">
         <div class="container work-scheme">
-            <h2 class="font-weight-light mb-3 text-center text-sm-left" data-aos="fade-down" data-aos-delay="100">Как мы будем с Вами работать |</h2>
+            <h2 class="font-weight-light mb-3 text-center text-sm-left" data-aos="fade-down" data-aos-delay="100">Як ми будемо з Вами працювати |</h2>
             <div class="row justify-content-start align-items-center" tabindex="1" data-aos="fade-down" data-aos-delay="150">
                 <div class="col-sm-12 col-md-2 order-md-2 text-center px-0 position-relative">
                     <div class="d-none d-md-block work-scheme-lines"></div>
@@ -676,7 +676,7 @@
                     </svg>
                 </div>
                 <div class="col-sm-12 col-md-5 text-center text-md-right">
-                    <p class="mb-0">Вы подаете техническое задание, сообщаете адрес объекта и контакты для связи</p>
+                    <p class="mb-0">Ви подаєте технічне завдання, повідомляєте адресу об'єкта та контакти для зв'язку</p>
                 </div>
             </div>
             <div class="row justify-content-end align-items-center" tabindex="1" data-aos="fade-down" data-aos-delay="200">
@@ -688,7 +688,7 @@
                     <div class="d-none d-md-block work-scheme-lines work-scheme-line-right"></div>
                 </div>
                 <div class="col-sm-12 col-md-5 text-center text-md-left">
-                    <p class="mb-0">Мы изучим заявку, уточним все нюансы и договоримся с контактным лицом о времени проведения обмера</p>
+                    <p class="mb-0">Ми вивчимо заявку, уточнимо всі нюанси та домовимося з контактною особою про час проведення обміру</p>
                 </div>
             </div>
             <div class="row justify-content-end align-items-center" tabindex="1" data-aos="fade-down" data-aos-delay="250">
@@ -700,7 +700,7 @@
                     <div class="d-none d-md-block work-scheme-lines work-scheme-line-right"></div>
                 </div>
                 <div class="col-sm-12 col-md-5 text-center text-md-left">
-                    <p class="mb-0">Наш специалист приедет на объект точно по времени и произведет все необходимые работы</p>
+                    <p class="mb-0">Наш спеціаліст приїде на об'єкт точно за часом і виконає всі необхідні роботи</p>
                 </div>
             </div>
             <div class="row justify-content-end align-items-center" tabindex="1" data-aos="fade-down" data-aos-delay="300">
@@ -712,7 +712,7 @@
                     <div class="d-none d-md-block work-scheme-lines work-scheme-line-right"></div>
                 </div>
                 <div class="col-sm-12 col-md-5 text-center text-md-left">
-                    <p class="mb-0">На следующий день мы подготовим чертежи ситуации, составленные на основе выполненной съемки, а также фотофиксацию объекта на момент выполнения обмеров</p>
+                    <p class="mb-0">На наступний день ми підготуємо креслення ситуації, складені на основі зробленої зйомки, а також фотофіксацію об'єкта на момент виконання обмірів</p>
                 </div>
             </div>
             <div class="row justify-content-start align-items-center" tabindex="1" data-aos="fade-down" data-aos-delay="350">
@@ -724,7 +724,7 @@
                     </svg>
                 </div>
                 <div class="col-sm-12 col-md-5 text-center text-md-right">
-                    <p class="mb-0">Вы получите результат и произведете оплату любым удобным способом</p>
+                    <p class="mb-0">Ви отримаєте результат і здійсните оплату будь-яким зручним способом</p>
                 </div>
             </div>
         </div>
@@ -735,13 +735,13 @@
             <div class="row align-items-start">
                 <div class="col-sm-12 col-lg-4 text-center text-lg-right mb-5 mb-lg-0">
                     <form class="mail-send-form text-center mt-5" action="mail/send.php" method="POST">
-                        <h3 class="font-weight-light pt-4">Написать нам |</h3>
+                        <h3 class="font-weight-light pt-4">Написати нам |</h3>
                         <div class="underline-animate"><input id="send-mail" name="name" class="mail-send w-100" type="text" placeholder="Имя" required></div>
                         <div class="underline-animate"><input class="mail-send w-100" name="email" type="text" placeholder="Ваш эл. адрес" required></div>
                         <div class="underline-animate">
                             <textarea class="mail-send w-100" name="message" cols="30" rows="5" placeholder="..."></textarea>
                         </div>
-                        <button class="mt-1" id="send-button" type="submit">Отправить</button>
+                        <button class="mt-1" id="send-button" type="submit">Надіслати</button>
                     </form>
                 </div>
                 <div class="col-sm-12 col-lg-4 text-center">
@@ -756,7 +756,7 @@
                 <div class="col-sm-12 col-lg-4 text-center text-lg-left mb-md-5">
                     <div class="scheme-contacts mt-5 text-left">
                         <div class="text-center pt-4 mb-4">
-                            <h3 class="font-weight-light">Наши контакты |</h3>
+                            <h3 class="font-weight-light">Наші контакти |</h3>
                         </div>
                         <p class="w-100">
                             <svg style="width:24px;height:24px" viewBox="0 0 24 24">
