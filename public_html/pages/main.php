@@ -28,7 +28,7 @@
                 <div class="col-sm-12 col-lg-6 mb-5 text-center text-sm-left" data-aos="fade-down" data-aos-delay="200">
                     <h2 class="font-weight-light mb-4" data-aos="fade-down" data-aos-delay="250">Про нас |</h2>
                     <p>Компанія SCHEME – надійний помічник на етапі здійснення обмірів приміщень, фасадів будівель та інших об'єктів будь-якої складності.</p>
-                    <p>Ми використовуємо високоточну вимірювальну систему Leica 3D Disto та перевірений робочий алгоритм для побудови 3D – моделі об'єкта з урахуванням усіх відхилень, нерівностей та перепадів висот. Результати вимірювань видаємо в універсальних форматах *.dwg, *.dxf, *.b3d.</p>
+                    <p>Ми використовуємо високоточну вимірювальну систему Leica 3D Disto та перевірений робочий алгоритм для побудови 3D – моделі об'єкта з урахуванням всіх відхилень, нерівностей та перепадів висот. Результати вимірювань видаємо в універсальних форматах *.dwg, *.dxf, *.b3d.</p>
                     <p>Працюючи з нам ви заощаджуєте час і оберігаєте себе від зайвих витрат на покриття можливих збитків, причиною яких став некоректно виконаний обмір.</p>
                     <a href="#send-mail" class="btn-scheme btn-scheme-primary mt-3" title="Залишити заявку" data-aos="fade-down" data-aos-delay="300">Залишити заявку</a>
                 </div>
@@ -688,7 +688,7 @@
                     <div class="d-none d-md-block work-scheme-lines work-scheme-line-right"></div>
                 </div>
                 <div class="col-sm-12 col-md-5 text-center text-md-left">
-                    <p class="mb-0">Ми вивчимо заявку, уточнимо всі нюанси та домовимося з контактною особою про час проведення обміру</p>
+                    <p class="mb-0">Ми вивчаємо заявку, уточнюємо всі нюанси та домовляємось з контактною особою про час проведення обміру</p>
                 </div>
             </div>
             <div class="row justify-content-end align-items-center" tabindex="1" data-aos="fade-down" data-aos-delay="250">
@@ -712,7 +712,7 @@
                     <div class="d-none d-md-block work-scheme-lines work-scheme-line-right"></div>
                 </div>
                 <div class="col-sm-12 col-md-5 text-center text-md-left">
-                    <p class="mb-0">На наступний день ми підготуємо креслення ситуації, складені на основі зробленої зйомки, а також фотофіксацію об'єкта на момент виконання обмірів</p>
+                    <p class="mb-0">На наступний день ми підготуємо креслення ситуації і фотофіксацію об'єкта на основі виконаних за місцем робіт</p>
                 </div>
             </div>
             <div class="row justify-content-start align-items-center" tabindex="1" data-aos="fade-down" data-aos-delay="350">
