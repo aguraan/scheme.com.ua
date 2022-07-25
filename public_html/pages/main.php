@@ -734,14 +734,14 @@
         <div class="container-fluid">
             <div class="row align-items-start">
                 <div class="col-sm-12 col-lg-4 text-center text-lg-right mb-5 mb-lg-0">
-                    <form class="mail-send-form text-center mt-5" action="mail/send.php" method="POST">
+                    <form id="mail-send-form" class="mail-send-form text-center mt-5" action="mail/send.php" method="POST">
                         <h3 class="font-weight-light pt-4">Написати нам |</h3>
                         <div class="underline-animate"><input id="send-mail" name="name" class="mail-send w-100" type="text" placeholder="Ім'я" required></div>
                         <div class="underline-animate"><input class="mail-send w-100" name="email" type="text" placeholder="Ваша ел. адреса" required></div>
                         <div class="underline-animate">
                             <textarea class="mail-send w-100" name="message" cols="30" rows="5" placeholder="..."></textarea>
                         </div>
-                        <button class="mt-1" id="send-button" type="submit">Надіслати</button>
+                        <button class="mt-1 g-recaptcha" id="send-button" type="submit" data-sitekey="6LdtZBohAAAAAIKRR2hJ5cisIWfE5wCo3sOgA-sa" data-callback="onSubmit">Надіслати</button>
                     </form>
                 </div>
                 <div class="col-sm-12 col-lg-4 text-center">

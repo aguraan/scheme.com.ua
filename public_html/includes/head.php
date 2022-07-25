@@ -15,5 +15,11 @@
     gtag('js', new Date());
     gtag('config', 'UA-144790850-1');
 </script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+    function onSubmit(token) {
+        document.getElementById("mail-send-form").submit();
+    }
+</script>
 <link href="/assets/css/app.css" rel="stylesheet">
 <?php $PAGE_HEAD && include($PAGE_HEAD);?>
