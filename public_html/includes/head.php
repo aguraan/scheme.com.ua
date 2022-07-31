@@ -22,4 +22,6 @@
     }
 </script>
 <link href="/assets/css/app.css" rel="stylesheet">
+<script type="text/javascript" src="/assets/js/app.js" defer></script>
+<script type="text/javascript" src="/assets/js/sendEmail.js" defer></script>
 <?php $PAGE_HEAD && include($PAGE_HEAD);?>

@@ -734,7 +734,7 @@
         <div class="container-fluid">
             <div class="row align-items-start">
                 <div class="col-sm-12 col-lg-4 text-center text-lg-right mb-5 mb-lg-0">
-                    <form id="mail-send-form" class="mail-send-form text-center mt-5" action="mail/send.php" method="POST">
+                    <form id="mail-send-form" class="mail-send-form text-center mt-5">
                         <h3 class="font-weight-light pt-4">Написати нам |</h3>
                         <div class="underline-animate"><input id="send-mail" name="name" class="mail-send w-100" type="text" placeholder="Ім'я" required></div>
                         <div class="underline-animate"><input class="mail-send w-100" name="email" type="text" placeholder="Ваша ел. адреса" required></div>
@@ -802,4 +802,3 @@
         </div>
     </footer>
     
-<script type="text/javascript" src="/assets/js/app.js"></script>
