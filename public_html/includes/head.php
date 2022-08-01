@@ -19,7 +19,7 @@
 <script>
     function onSubmit(token) {
         console.log(token);
-        document.getElementById("mail-send-form").submit();
+        // document.getElementById("mail-send-form").submit();
     }
 </script>
 <link href="/assets/css/app.css" rel="stylesheet">
