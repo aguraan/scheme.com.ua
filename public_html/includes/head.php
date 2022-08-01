@@ -16,12 +16,6 @@
     gtag('config', 'UA-144790850-1');
 </script>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<script>
-    function onSubmit(token) {
-        console.log(token);
-        // document.getElementById("mail-send-form").submit();
-    }
-</script>
 <link href="/assets/css/app.css" rel="stylesheet">
 <script type="text/javascript" src="/assets/js/app.js" defer></script>
 <script type="text/javascript" src="/assets/js/sendEmail.js" defer></script>
