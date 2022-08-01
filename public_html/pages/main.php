@@ -741,7 +741,7 @@
                         <div class="underline-animate">
                             <textarea class="mail-send w-100" name="message" cols="30" rows="5" placeholder="..."></textarea>
                         </div>
-                        <button class="mt-1 g-recaptcha" id="send-button" data-action="submit" data-sitekey="6LdtZBohAAAAAIKRR2hJ5cisIWfE5wCo3sOgA-sa" data-callback="sendEMail">Надіслати</button>
+                        <button class="mt-1 g-recaptcha" id="send-button" data-action="submit" data-sitekey="6LcSGjkhAAAAAF8d3j4jp3DIXr3OpQTJOg58vvk6" data-callback="sendEMail">Надіслати</button>
                     </form>
                 </div>
                 <div class="col-sm-12 col-lg-4 text-center">
